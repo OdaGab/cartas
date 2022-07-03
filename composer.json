@@ -1,0 +1,14 @@
+{
+    "name": "odagab/email",
+    "authors": [
+        {
+            "name": "Odair Gabriel",
+            "email": "odavita32@gmail.com"
+        }
+    ], 
+    "require": {
+    	"rain/raintpl": "3.0.0",
+        "phpmailer/phpmailer": "^6.2"
+
+    }
+}
